@@ -1,8 +1,8 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
+  - Object: 👂 heard
+  - this: 🖐 used
   - arrow function
   - async function
   - call
@@ -11,12 +11,12 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
+  - typeof: 🖐 used
+  - destructuring: 👂 heard
+  - generator: 👂 heard
+  - iterator: 👂 heard
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
   - chaining
   - optional chaining
   - IIFE
@@ -24,66 +24,66 @@
   - globalThis
   - window
   - getters and setters
-  - __proto__
-  - prototype
+  - proto
+  - prototype: 👂 heard
   - equality operators
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void: 👂 heard
   - yield
-  - await
+  - await: 👂 heard
   - template literal
-  - strict mode
+  - strict mode: 👂 heard
   - delete
-  - in
+  - in: 🖐 used
   - super
-  - Symbol
+  - Symbol: 🖐 used
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🖐 used
+  - while: 🖐 used
+  - do..while: 🖐 used
+  - for: 🖐 used
+  - for..in: 🖐 used
+  - for..of: 🖐 used
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
+  - throw: 🖐 used
+  - break: 🖐 used
+  - continue: 🖐 used
+  - import: 👂 heard
+  - export: 👂 heard
+  - label: 👂 heard
+  - try..catch: 🖐 used
+  - switch: 🖐 used
+  - class: 🖐 used
+  - new Error: 🖐 used
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration: 🖐 used
+  - function expression: 🖐 used
+  - return: 🖐 used
+  - default parameters: 🖐 used
+  - functional object: 👂 heard
 - Data structures
-  - Array
+  - Array: 🖐 used
   - mixin
   - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - typed arrays: 🖐 used
+  - Map: 🖐 used
+  - Set: 👂 heard
+  - undefined: 🖐 used
+  - null: 🖐 used
   - Proxy
   - weak collections
   - timers
   - EventEmitter
   - RegExp
   - Date
-  - BigInt
+  - BigInt: 👂 heard
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js: 👂 heard
   - npm
   - prettier
   - MDN
