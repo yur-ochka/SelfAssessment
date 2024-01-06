@@ -1,18 +1,18 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value🖐 used
+  - identifier🖐 used
+  - variable🖐 used
+  - constant🖐 used
   - scalar
   - literal
   - expression
   - heap
-  - function
+  - function🖐 used
   - procedure
-  - method
-  - class
+  - method: 👂 heard
+  - class: 👂 heard
   - prototype
   - event
   - type
@@ -30,9 +30,9 @@
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
+  - signature🖐 used
+  - argument🖐 used
+  - parameter🖐 used
   - pure function
   - lambda expression
   - side effects
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array🖐 used
   - structure
   - record
   - enum
   - instance
-  - object
-  - class
+  - object: 👂 heard
+  - class: 👂 heard
   - collection
   - set
   - hash table
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 👂 heard
+  - github: 👂 heard
