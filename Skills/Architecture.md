@@ -1,36 +1,36 @@
 ## Architecture
 
 - Application structure
-  - Modularity: 👂 heard
-  - Components: 👂 heard
+  - Modularity
+  - Components
   - Directories
   - GRASP
   - SOLID
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code: 👂 heard
-  - Contract programming: 👂 heard
+  - Multiparadigm code
+  - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage: 👂 heard
+  - Code coverage
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability: 👂 heard
-  - Quality: 👂 heard
-  - Availability: 👂 heard
-  - Flexibility: 👂 heard
+  - Reliability
+  - Quality
+  - Availability
+  - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer: 👂 heard
+  - Isolation between layer
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming: 👂 heard
+  - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
@@ -61,13 +61,13 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS): 👂 heard
-  - Solution visions: 👂 heard
-  - Solution capabilities: 👂 heard
+  - A software requirements specification (SRS)
+  - Solution visions
+  - Solution capabilities
   - System design
-  - Process modelling: 👂 heard
-  - Data modelling: 👂 heard
-  - Solution components: 👂 heard
+  - Process modelling
+  - Data modelling
+  - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds
@@ -80,15 +80,15 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs: 👂 heard
-  - Enterprise strategy: 👂 heard
+  - Understanding business needs
+  - Enterprise strategy
   - Integration with subsystems
-  - Enterprise vision: 👂 heard
-  - Enterprise capabilities: 👂 heard
+  - Enterprise vision
+  - Enterprise capabilities
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices: 👂 heard
+  - Microservices
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance: 👂 heard
+  - Quality assurance
   - Engineering Hygiene
