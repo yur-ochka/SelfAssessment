@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL: 👂 heard
   - Oracle
-  - MySQ: 👂 heardL 👉 Warning: not matching level and emoji
+  - MySQ: 👂 heardL 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
   - MariaDB
   - MS SQL Server: 👂 heard
   - Redis

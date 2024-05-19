@@ -1,14 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-316&nbsp;/&nbsp;648&nbsp;/&nbsp;731-FF3300?style=flat-square)](https://github.com/yur-ochka/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-318&nbsp;/&nbsp;648&nbsp;/&nbsp;731-FF3300?style=flat-square)](https://github.com/yur-ochka/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-316&nbsp;/&nbsp;648&nbsp;/&nbsp;731-FF3300?style=flat-square)](https://github.com/yur-ochka/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-318&nbsp;/&nbsp;648&nbsp;/&nbsp;731-FF3300?style=flat-square)](https://github.com/yur-ochka/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/yur-ochka/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-316&nbsp;/&nbsp;648&nbsp;/&nbsp;731-FF3300?style=flat-square"></a>
-
+<a href="https://github.com/yur-ochka/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-318&nbsp;/&nbsp;648&nbsp;/&nbsp;731-FF3300?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -19,7 +18,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `25` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `29` | `33` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Types | `7` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `23` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `11` | `23` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `19` | `26` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Networking | `5` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `14` | `28` |
@@ -28,7 +27,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `4` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `1` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `35` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `36` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `7` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `5` | `8` |
@@ -71,7 +70,6 @@
 | `instanceof` | 👂 heard | ⟶  | 🖐️ used |
 | `...spread` | 🤷 unknown | ⟶  | 🖐️ used |
 | `...rest` | 🤷 unknown | ⟶  | 🖐️ used |
-| Generators | 🤷 unknown | ⟶  | 👂 heard |
 | Chaining | 🤷 unknown | ⟶  | 👂 heard |
 | Optional chaining | 🤷 unknown | ⟶  | 👂 heard |
 | IIFE | 🤷 unknown | ⟶  | 👂 heard |
@@ -95,14 +93,14 @@
 | V8 | 🤷 unknown | ⟶  | 👂 heard |
 | prettier | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `46` of `72` skills, `26` to be upgraded, and `13` above needed
+Total: you have `47` of `72` skills, `25` to be upgraded, and `13` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
 | `instanceof` | 👂 heard | ⟶  | 🖐️ used |
 | `...spread` | 🤷 unknown | ⟶  | 🖐️ used |
 | `...rest` | 🤷 unknown | ⟶  | 🖐️ used |
-| Generators | 🤷 unknown | ⟶  | 🖐️ used |
+| Generators | 👂 heard | ⟶  | 🖐️ used |
 | Async generator | 👂 heard | ⟶  | 🖐️ used |
 | Async iterator | 👂 heard | ⟶  | 🖐️ used |
 | Chaining | 🤷 unknown | ⟶  | 🖐️ used |
