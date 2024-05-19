@@ -32,29 +32,29 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value: 🖐 used
+  - Identifier: 🖐 used
+  - Variable: 🖐 used
+  - Constant: 🖐 used
+  - Scalar: 🖐 used
+  - Literal: 🖐 used
+  - Expression: 🖐 used
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
+  - Function: 🖐 used
+  - Procedure: 🖐 used
+  - Method: 🖐 used
+  - Class: 🖐 used
+  - Prototype: 👂 heard
+  - Event: 👂 heard
+  - Type: 👂 heard
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
+  - Code block: 🖐 used
+  - Conditions: 🖐 used
+  - Loops: 🖐 used
   - Assignment
   - Regular expression
-  - Interface
+  - Interface: 👂 heard
   - Namespaces
   - Call stack
   - Naming conventions
@@ -81,49 +81,49 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Signature: 🖐 used
+  - Argument: 🖐 used
+  - Parameter: 🖐 used
+  - Pure function: 🖐 used
+  - Lambda expression: 🖐 used
+  - Side effects: 👂 heard
+  - Closure: 🖐 used
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion: 🖐 used
   - Tail call optimisation
   - Callback
   - Listener
   - Composition
   - Pipe
   - Memoize
-  - Wrapper
-  - Functor
+  - Wrapper: 👂 heard
+  - Functor: 👂 heard
   - Monad
   - Monoid
-  - Generator
+  - Generator: 👂 heard
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array: 🖐 used
+  - Structure: 🖐 used
   - Record
   - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
+  - Instance: 👂 heard
+  - Object: 🖐 used
+  - Collection: 👂 heard
+  - Set: 👂 heard
   - Hash table
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
+  - Queue: 👂 heard
   - Stack
   - Deque
   - Tree
   - Graph
-  - Iterator
+  - Iterator: 👂 heard
   - Mutable state
   - Immutable state
   - Serialization
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler: 👂 heard
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 👂 heard
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring: 👂 heard
+  - Code review: 👂 heard
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git: 🖐 used
+  - Github: 🖐 used
   - Docker
   - Kubernetes
   - GCC
