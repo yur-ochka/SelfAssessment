@@ -1,8 +1,8 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: 👂 heard
-  - Stateful and stateless servers: 👂 heard
+  - Strong and weak sides of node.js
+  - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
@@ -11,14 +11,14 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules: 👂 heard
+  - CommonJS modules
   - ECMAScript modules
-  - Module `node:module`: 👂 heard
+  - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`: 👂 heard
-  - Files `package.json`, `package-lock.json`: 👂 heard
+  - Dependencies: `npm`, `node_modules`
+  - Files `package.json`, `package-lock.json`
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments: 👂 heard
-  - Node.js CLI: 👂 heard
+  - Command line arguments
+  - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -60,31 +60,31 @@
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - Endpoint throttling: 👂 heard
+  - Endpoint throttling
   - ALPN
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S): 👂 heard
+  - HTTP(S)
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket: 👂 heard
+  - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
-  - Routing: 👂 heard
-  - DoS: 👂 heard
-  - DDoS: 👂 heard
+  - Routing
+  - DoS
+  - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS: 👂 heard
-  - SQL injection: 👂 heard
+  - DNS
+  - SQL injection
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -103,7 +103,7 @@
   - Inspector
 - Data access
   - Data access layer
-  - Repository: 🖐️ used
+  - Repository
   - Active record
   - Query builder
   - Object-Relational Mapping

@@ -1,57 +1,57 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🖐️ used
-  - Imperative programming: 👂 heard
-  - Structured programming: 👂 heard
-  - Non-structured programming: 👂 heard
-  - Functional programming: 🖐️ used
-  - Prototype-based programming: 👂 heard
-  - Object-oriented programming: 🖐️ used
-  - Object-based programming: 👂 heard
-  - Generic programming: 👂 heard
-  - Concurrent computing: 👂 heard
-  - Asynchronous programming: 🖐️ used
-  - Parallel programming: 👂 heard
-  - Reactive programming: 👂 heard
-  - Functional-reactive (FRP): 👂 heard
-  - Automata-based programming: 👂 heard
-  - Domain-specific languages: 👂 heard
-  - Multi-paradigm programmingм: 👂 heard
-  - Metaprogramming: 👂 heard
-  - Actor model: 👂 heard
+  - Procedural programming
+  - Imperative programming
+  - Structured programming
+  - Non-structured programming
+  - Functional programming
+  - Prototype-based programming
+  - Object-oriented programming
+  - Object-based programming
+  - Generic programming
+  - Concurrent computing
+  - Asynchronous programming
+  - Parallel programming
+  - Reactive programming
+  - Functional-reactive (FRP)
+  - Automata-based programming
+  - Domain-specific languages
+  - Multi-paradigm programming
+  - Metaprogramming
+  - Actor model
   - Lambda calculus
   - Black box
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition: 👂 heard
+  - Class composition
 - OOP basics
-  - Constructor: 🖐️ used
-  - Operator `new`: 🖐️ used
-  - Static method: 🖐️ used
-  - Method: 🖐️ used
-  - Async method: 🖐️ used
+  - Constructor
+  - Operator `new`
+  - Static method
+  - Method
+  - Async method
   - Getters, Setters
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
-  - Field declarations: 🖐️ used
-  - Inheritance: 🖐️ used
-  - Parent class: 🖐️ used
-  - Polymorphism: 🖐️ used
-  - Abstract class: 🖐️ used
-  - Interface: 🖐️ used
-  - Encapsulation: 👂 heard
-  - Hidden class: 👂 heard
-  - Object form: 👂 heard
-  - Instance: 👂 heard
-  - Introspection: 👂 heard
-  - Reflection: 👂 heard
+  - Public fields
+  - Private fields
+  - Field declarations
+  - Inheritance
+  - Parent class
+  - Polymorphism
+  - Abstract class
+  - Interface
+  - Encapsulation
+  - Hidden class
+  - Object form
+  - Instance
+  - Introspection
+  - Reflection
   - The diamond problem
 - GRASP
-  - Information expert: 👂 heard
-  - Creator: 👂 heard
-  - Controller: 👂 heard
+  - Information expert
+  - Creator
+  - Controller
   - Indirection
   - Low coupling
   - High cohesion
@@ -65,20 +65,20 @@
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
-  - Factory Method: 👂 heard
+  - Factory Method
   - Abstract Factory
-  - Adapter: 👂 heard
-  - Observer: 👂 heard
+  - Adapter
+  - Observer
   - Strategy
   - Facade
-  - Proxy: 👂 heard
-  - Chain of Responsibility: 👂 heard
+  - Proxy
+  - Chain of Responsibility
   - Command
-  - Iterator: 🖐️ used
-  - State: 👂 heard
+  - Iterator
+  - State
   - Bridge
   - Builder
-  - Prototype: 🖐️ used
+  - Prototype
   - Composite
   - Decorator
   - Flyweight
@@ -86,6 +86,6 @@
   - Memento
   - Template Method
   - Visitor
-  - Reactor: 👂 heard
+  - Reactor
   - Active object
   - Delegation
