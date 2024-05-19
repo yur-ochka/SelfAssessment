@@ -32,26 +32,26 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value: 🖐 used
-  - Identifier: 🖐 used
-  - Variable: 🖐 used
-  - Constant: 🖐 used
-  - Scalar: 🖐 used
-  - Literal: 🖐 used
-  - Expression: 🖐 used
+  - Value: 🖐: 🖐️ used
+  - Identifier: 🖐: 🖐️ used
+  - Variable: 🖐: 🖐️ used
+  - Constant: 🖐: 🖐️ used
+  - Scalar: 🖐: 🖐️ used
+  - Literal: 🖐: 🖐️ used
+  - Expression: 🖐: 🖐️ used
   - Heap
-  - Function: 🖐 used
-  - Procedure: 🖐 used
-  - Method: 🖐 used
-  - Class: 🖐 used
+  - Function: 🖐: 🖐️ used
+  - Procedure: 🖐: 🖐️ used
+  - Method: 🖐: 🖐️ used
+  - Class: 🖐: 🖐️ used
   - Prototype: 👂 heard
   - Event: 👂 heard
   - Type: 👂 heard
   - Flag
   - Lexical scope
-  - Code block: 🖐 used
-  - Conditions: 🖐 used
-  - Loops: 🖐 used
+  - Code block: 🖐: 🖐️ used
+  - Conditions: 🖐: 🖐️ used
+  - Loops: 🖐: 🖐️ used
   - Assignment
   - Regular expression
   - Interface: 👂 heard
@@ -81,17 +81,17 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature: 🖐 used
-  - Argument: 🖐 used
-  - Parameter: 🖐 used
-  - Pure function: 🖐 used
-  - Lambda expression: 🖐 used
+  - Signature: 🖐: 🖐️ used
+  - Argument: 🖐: 🖐️ used
+  - Parameter: 🖐: 🖐️ used
+  - Pure function: 🖐: 🖐️ used
+  - Lambda expression: 🖐: 🖐️ used
   - Side effects: 👂 heard
-  - Closure: 🖐 used
+  - Closure: 🖐: 🖐️ used
   - Partial application
   - Currying
   - Higher order
-  - Recursion: 🖐 used
+  - Recursion: 🖐: 🖐️ used
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,12 +105,12 @@
   - Generator: 👂 heard
   - Coroutine
 - Data structures
-  - Array: 🖐 used
-  - Structure: 🖐 used
+  - Array: 🖐: 🖐️ used
+  - Structure: 🖐: 🖐️ used
   - Record
   - Enum
   - Instance: 👂 heard
-  - Object: 🖐 used
+  - Object: 🖐: 🖐️ used
   - Collection: 👂 heard
   - Set: 👂 heard
   - Hash table
@@ -164,8 +164,8 @@
   - Code review: 👂 heard
   - Exception
   - Unittesting
-  - git: 🖐 used
-  - Github: 🖐 used
+  - git: 🖐: 🖐️ used
+  - Github: 🖐: 🖐️ used
   - Docker
   - Kubernetes
   - GCC

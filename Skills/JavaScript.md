@@ -12,11 +12,11 @@
   - `NaN`
   - `undefined`
   - `null`
-  - `this`: 🖐 used
+  - `this`: 🖐: 🖐️ used
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`: 🖐 used
+  - `typeof`: 🖐: 🖐️ used
   - Destructuring: 👂 heard
   - Generators: 👂 heard
   - Iterators: 👂 heard
@@ -59,16 +59,16 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`: 🖐 used
-  - `while`: 🖐 used
-  - `do..while`: 🖐 used
-  - `for`: 🖐 used
-  - `for..in`: 🖐 used
-  - `for..of`: 🖐 used
+  - `if`: 🖐: 🖐️ used
+  - `while`: 🖐: 🖐️ used
+  - `do..while`: 🖐: 🖐️ used
+  - `for`: 🖐: 🖐️ used
+  - `for..in`: 🖐: 🖐️ used
+  - `for..of`: 🖐: 🖐️ used
   - `for await`
-  - `throw`: 🖐 used
-  - `break`: 🖐 used
-  - `continue`: 🖐 used
+  - `throw`: 🖐: 🖐️ used
+  - `break`: 🖐: 🖐️ used
+  - `continue`: 🖐: 🖐️ used
   - `import`
   - `export`
   - `label`
@@ -81,8 +81,8 @@
 - Functions
   - Arrow function
   - Async function
-  - Function declaration: 🖐 used
-  - Function expression: 🖐 used
+  - Function declaration: 🖐: 🖐️ used
+  - Function expression: 🖐: 🖐️ used
   - Default parameters
   - Functional object
   - `Function.prototype.call`
@@ -90,7 +90,7 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`: 🖐 used
+  - `Array`: 🖐: 🖐️ used
   - `Map`
   - `Set`
   - `WeakMap`
