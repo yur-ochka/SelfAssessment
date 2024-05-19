@@ -1,7 +1,7 @@
 ## JavaScript
 
 - Language
-  - `Object`
+  - `Object`: 👂 heard
   - `Function`
   - `Boolean`
   - `Number`
@@ -12,16 +12,16 @@
   - `NaN`
   - `undefined`
   - `null`
-  - `this`
+  - `this`: 🖐 used
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
+  - `typeof`: 🖐 used
+  - Destructuring: 👂 heard
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
+  - Async generator: 👂 heard
+  - Async iterator: 👂 heard
   - Chaining
   - Optional chaining
   - IIFE
@@ -31,20 +31,20 @@
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype`
+  - `prototype`: 👂 heard
   - Equality operators
   - Logical operators
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
-  - `void`
+  - `void`: 👂 heard
   - `yield`
-  - `await`
+  - `await`: 👂 heard
   - Template literal
-  - Strict mode
+  - Strict mode: 👂 heard
   - Hoisting
   - `delete`
-  - `in`
+  - `in`: 👂 heard
   - `super`
   - `eval`
   - `static`
@@ -59,16 +59,16 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if`: 🖐 used
+  - `while`: 🖐 used
+  - `do..while`: 🖐 used
+  - `for`: 🖐 used
+  - `for..in`: 🖐 used
+  - `for..of`: 🖐 used
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
+  - `throw`: 🖐 used
+  - `break`: 🖐 used
+  - `continue`: 🖐 used
   - `import`
   - `export`
   - `label`
@@ -81,8 +81,8 @@
 - Functions
   - Arrow function
   - Async function
-  - Function declaration
-  - Function expression
+  - Function declaration: 🖐 used
+  - Function expression: 🖐 used
   - Default parameters
   - Functional object
   - `Function.prototype.call`
@@ -90,7 +90,7 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array`: 🖐 used
   - `Map`
   - `Set`
   - `WeakMap`
@@ -115,7 +115,7 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js: 👂 heard
   - npm
   - prettier
   - MDN
