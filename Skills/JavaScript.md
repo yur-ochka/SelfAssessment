@@ -18,7 +18,7 @@
   - `...rest`
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
-  - Generators
+  - Generators: 👂 heard
   - Iterators: 🖐️ used
   - Async generator: 👂 heard
   - Async iterator: 👂 heard

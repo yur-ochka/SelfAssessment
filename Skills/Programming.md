@@ -102,7 +102,7 @@
   - Functor
   - Monad
   - Monoid
-  - Generator
+  - Generator: 👂 heard
   - Coroutine
 - Data structures
   - Array: 🖐️ used

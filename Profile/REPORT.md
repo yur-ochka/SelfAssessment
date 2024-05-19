@@ -8,6 +8,7 @@
 
 ```
 <a href="https://github.com/yur-ochka/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-316&nbsp;/&nbsp;648&nbsp;/&nbsp;731-FF3300?style=flat-square"></a>
+
 ```
 
 ## Assessment totals
